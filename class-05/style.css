@@ -1,0 +1,113 @@
+body{
+font-family:"roboto", sans-serif ; 
+
+}
+*{
+  margin: auto;
+  padding:0 ;
+}
+.hero{
+  background-color: #326155; 
+  text-align: center;
+  
+}
+.hero img{
+  width: 128px;
+    height: 128px;
+    gap: 0px;
+    opacity: 0px;
+}
+.hero h2{
+  
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56.25px;
+    color:#FFFFFF; 
+}
+ section{
+background-color: #f1b6b6;
+text-align: center;
+margin-top: 30 px;
+padding:35px;
+gap:initial;
+display: block;
+}
+
+
+
+
+
+.box{
+background-color:#D7F2EC;;
+width: 583px;
+  height: 604px;
+  top: 31px;
+  margin-top: 40px;
+  padding: 0%;
+  opacity: 0px;
+}
+.blog img{
+width: 500px;
+  height: 273.39px;
+  top: 73px;
+  gap: initial;
+  margin-top: 30px;
+
+}
+
+
+
+
+
+.blog h3{
+color: #326155;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 42.19px;
+  text-align: left;
+  display: block;
+  margin-left: 40px;
+  margin-bottom: 5px;
+  gap: 15px;
+}
+.blog p{
+color: #000000;
+font-size: 16px;
+  font-weight: 400;
+  line-height: 18.75px;
+  text-align: left;
+  margin-left: 40px ;
+  font-style:italic;
+  gap:40px;
+}
+.button {
+background-color:  #326155;
+
+font-family: Roboto;
+font-size: 24px;
+font-weight: 700;
+line-height: 28.13px;
+text-align: center;
+  gap: 3px;
+  padding: 15px 15px ;
+  margin:35px 35px;
+  
+}
+.button a{
+  color: #FFFFFF;
+   text-decoration:none;
+   border-radius: 0cap;
+
+}
+footer{
+  background-color: #326155;
+  text-align: center;
+  padding: 30px;
+  }
+  .footer p{
+  
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 18.75px;
+    color: #FFFFFF;
+  }
